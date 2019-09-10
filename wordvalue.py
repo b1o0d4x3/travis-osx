@@ -1,4 +1,4 @@
-from data import DICTIONARY, LETTER_SCORES
+rom data import DICTIONARY, LETTER_SCORES
 
 def load_words():
     """Load dictionary into a list and return list"""
